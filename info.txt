@@ -21,7 +21,7 @@ Your Guess: [ ]
 
 Qubit: [0]   <- Actual state revealed
 
-Your Guess: [0 ]
+Your Guess: [00]
 
 === Round 3 ===
 
