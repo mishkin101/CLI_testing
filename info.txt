@@ -1,2 +1,2 @@
-## Combine your Favrotie Foods
+##Combine your Favorite Foods
 insert name:food on this line
